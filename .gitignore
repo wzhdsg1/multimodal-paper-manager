@@ -1,0 +1,30 @@
+# 虚拟环境（根据你的环境名修改）
+local-ai-agent/
+venv/
+env/
+.conda/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据文件夹（可选：如果数据量大，建议不上传，只保留空文件夹+说明）
+data/chroma_db/
+data/images/
+data/papers/
+!data/papers/.gitkeep  # 保留空文件夹的占位符（需手动创建.gitkeep空文件）
+
+# Streamlit缓存
+.streamlit/
+.cache/
+
+# 日志/临时文件
+*.log
+*.tmp
+*.bak
+
+# OS系统文件
+.DS_Store
+Thumbs.db
