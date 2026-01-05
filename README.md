@@ -124,6 +124,8 @@ streamlit run app.py
   ![img_5.png](img_5.png)
 - **截图7：边界测试**
   ![img_6.png](img_6.png)
+- **截图8：Streamlit图形界面**
+<img width="2483" height="1407" alt="image" src="https://github.com/user-attachments/assets/36e81c6c-b07c-469e-9b14-1a407f16dbb7" />
 
 
 ### 2. 演示视频
