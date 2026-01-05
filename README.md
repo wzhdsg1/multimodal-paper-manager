@@ -118,7 +118,7 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ## 使用说明
-项目支持**命令行调用**（符合作业评测接口规范）与**Streamlit图形界面**两种使用方式。
+项目支持**命令行调用**与**Streamlit图形界面**两种使用方式。
 
 ### 方式1：命令行调用（main.py统一入口）
 项目根目录下的 `main.py` 为统一入口，支持以下核心功能调用：
